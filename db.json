@@ -1,0 +1,53 @@
+{
+  "jokes": [
+    {
+      "id": 0,
+      "title": "Yo momma is so fat when she got on the scale it said I need your weight not your phone number",
+      "author": "swaggerboy",
+      "rating": "140894",
+      "category": "yo mamma"
+    },
+    {
+      "id": 1,
+      "title": "Yo momma is so fat, I took a picture of her last Christmas and it's still printing.",
+      "author": "Its More F...",
+      "rating": "13272",
+      "category": "yo mamma"
+    },
+    {
+      "id": 2,
+      "title": "Yo momma is so fat her bellybutton gets home 15 minutes before she does.",
+      "author": "Anonymous",
+      "rating": "54272",
+      "category": "yo mamma"
+    },
+    {
+      "id": 3,
+      "title": " Q: Why did the can crusher quit his job? A: Because it was soda pressing.",
+      "author": "Brock",
+      "rating": "65272",
+      "category": "clean jokes"
+    },
+    {
+      "id": 4,
+      "title": " Q: Why did Adele cross the road? A: To sing Hello from the other side!,",
+      "author": "Some Dude",
+      "rating": "69872",
+      "category": "clean jokes"
+    },
+    {
+      "id": 5,
+      "title": " Q: How do you make a tissue dance? A: Put a little boogie in it.",
+      "author": "Make People Laugh",
+      "rating": "638472",
+      "category": "clean jokes"
+    },
+    {
+      "id": 6,
+      "title": " Q: What does a skeleton order at a restaurant? A: Spare ribs!",
+      "author": "Cupcake 22",
+      "rating": "938472",
+      "category": "clean jokes"
+    }
+  ]
+}
